@@ -9,4 +9,5 @@ E-signature: JS SignaturePad and Laravel Image library.
 
 Central Setting: small DB table to save JSON data format for each setting so this can be easy updated or added for each user.
 
-http://signature.wolscy.com/public/post-login
+http://signature.wolscy.com/public/
+
