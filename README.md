@@ -1,4 +1,4 @@
-<img src="http://wolscy.com/czarna/images/signature_centralsetting.jpg">
+<img src="https://github.com/mariolawolska/signature/blob/Master/public/signature_centralsetting.jpg">
 
 
 Target:
@@ -9,4 +9,3 @@ E-signature: JS SignaturePad and Laravel Image library.
 
 Central Setting: small DB table to save JSON data format for each setting so this can be easy updated or added for each user.
 
-http://signature.wolscy.com/public/
